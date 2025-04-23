@@ -7,7 +7,7 @@
                     <div class="flex items-center">
                         <img src="/images/logo.png" alt="" class="h-10 me-5">
                     </div>
-                    <p class="text-gray-300 max-w-xs mt-6">This may include the company's address, phone number, email address, and links to social media profiles.</p>
+                    <p class="text-gray-300 max-w-xs mt-6">Tudo o Que Você Precisa Para Cuidar da Sua Saúde em um Só Lugar.</p>
                 </div>
 
                 <div class="mt-6 grid space-y-3">
@@ -29,17 +29,16 @@
             </div>
 
             <div class="col-span-1">
-                <h4 class="font-semibold text-gray-100 uppercase">Company</h4>
+                <h4 class="font-semibold text-gray-100 uppercase">Betel</h4>
 
                 <div class="mt-6 grid space-y-3">
-                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">About</a></p>
-                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">Services</a></p>
-                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">Portfolio</a></p>
-                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">Blog</a></p>
-                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">Contact</a></p>
+                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#about">Sobre Nós</a></p>
+                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#services">Serviços</a></p>
+                    <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#conta">Contato</a></p>
                 </div>
             </div>
 
+            <!--
             <div class="col-span-1">
                 <h4 class="font-semibold text-gray-100 uppercase">Product</h4>
 
@@ -49,8 +48,10 @@
                     <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">News & Stories</a></p>
                     <p><a class="inline-flex gap-x-2 text-base text-gray-300 hover:text-gray-400 transition-all duration-300" href="#">Roadmap</a></p>
                 </div>
-            </div>
+            </div> 
+            -->
 
+            <!--
             <div class="col-span-1">
                 <h4 class="font-semibold text-gray-100 uppercase">Important Links</h4>
 
@@ -64,9 +65,10 @@
             </div>
         </div>
     </div>
-
+-->
+<!--
     <div class="py-4 bg-[#1C2940]">
-        <!-- 1B283F -->
+       
         <div class="container">
             <div class="flex justify-between items-center">
                 <p class="text-base text-white">
@@ -107,6 +109,7 @@
 
         </div>
     </div>
+-->
 
 </footer>
 <!-- Footer End --><?php /**PATH C:\laragon\www\Projetos\Betel-Web\resources\views/layouts/partials/footer.blade.php ENDPATH**/ ?>

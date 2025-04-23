@@ -33,7 +33,7 @@
             <div class="ms-auto shrink hidden lg:inline-flex gap-2">
                 <a href="#" class="py-2 px-8 inline-flex items-center gap-2 rounded-full text-base text-white bg-primary hover:bg-primaryDark transition-all duration-500 font-medium">
                     <i data-lucide="download-cloud" class="h-4 w-4 fill-white/40"></i>
-                    <span class="hidden sm:block"></span>
+                    <span class="hidden sm:block">Baixar App</span>
                 </a>
             </div>
         </div>
