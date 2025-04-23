@@ -24,7 +24,7 @@
                     <p class="text-base font-medium text-muted leading-7 mt-5 capitalize">Acesse seus beneficios de saúde de forma rapida e facil. Consultas, exames, descontos e muito mais em um só lugar.</p>
                     <div class="flex flex-wrap items-center justify-center gap-3 lg:justify-normal mt-9">
                         <a href="https://apps.apple.com/br/app/betel-sa%C3%BAde/id6742192639"><img src="/images/store.png" class="h-14" alt="apple image"></a>
-                        <a href="https://play.google.com/store/apps/details?id=com.betelsaude.appsaude&pcampaignid=web_share"></a><img src="/images/google.png" class="h-14" alt="google image">
+                        <a href="https://play.google.com/store/apps/details?id=com.betelsaude.appsaude&pcampaignid=web_share"><img src="/images/google.png" class="h-14" alt="google image"></a>
                     </div>
                 </div>
 
@@ -118,7 +118,7 @@
 
         </div>
     </section>
-    <!-- Services End -->
+    <!--
     <section class="relative py-20 bg-cover bg-no-repeat bg-center bg-[url(/public/images/home/parallax.png)]" data-jarallax data-speed="0.20">
         <div class="absolute inset-0 w-full h-full bg-gray-900/70"></div>
 
@@ -139,8 +139,7 @@
             </div>
         </div>
     </section>
-
-    <!-- About Start -->
+ -->
     <section id="about" class="py-20">
         <div class="container">
 
@@ -795,10 +794,10 @@
                 <div>
                     <div>
                         <span
-                            class="text-sm text-primary uppercase font-semibold tracking-wider text-default-950 mb-6">Contact
-                            Us</span>
+                            class="text-sm text-primary uppercase font-semibold tracking-wider text-default-950 mb-6">Contato
+                            </span>
                     </div>
-                    <h2 class="text-3xl md:text-4xl/tight font-semibold mt-4">We're open to talk to good people.</h2>
+                    <h2 class="text-3xl md:text-4xl/tight font-semibold mt-4">Converse com a gente.</h2>
 
                     <div class="flex flex-col sm:flex-row items-center gap-5 text-center sm:text-start mt-10">
                         <div class="h-12 w-12 rounded-full bg-primary/10 flex items-center justify-center">
@@ -837,51 +836,51 @@
                             <div class="grid sm:grid-cols-2 gap-6">
                                 <div>
                                     <label for="formFirstName"
-                                        class="block text-sm/normal font-semibold text-black mb-2">First Name</label>
+                                        class="block text-sm/normal font-semibold text-black mb-2">Nome</label>
                                     <input type="text"
                                         class="block w-full text-sm rounded-md py-3 px-4 border-gray-200 focus:border-gray-300 focus:ring-transparent"
-                                        id="formFirstName" placeholder="Your first name..." required="">
+                                        id="formFirstName" placeholder="Primeiro Nome" required="">
                                 </div>
 
                                 <div>
                                     <label for="formLastName"
-                                        class="block text-sm/normal font-semibold text-black mb-2">Last Name</label>
+                                        class="block text-sm/normal font-semibold text-black mb-2">Sobrenome</label>
                                     <input type="text"
                                         class="block w-full text-sm rounded-md py-3 px-4 border-gray-200 focus:border-gray-300 focus:ring-transparent"
-                                        id="formLastName" placeholder="Last first name..." required="">
+                                        id="formLastName" placeholder="Último Nome" required="">
                                 </div>
 
                                 <div>
                                     <label for="formEmail"
-                                        class="block text-sm/normal font-semibold text-black mb-2">Email Address</label>
+                                        class="block text-sm/normal font-semibold text-black mb-2">Endereço de E-mail</label>
                                     <input type="email"
                                         class="block w-full text-sm rounded-md py-3 px-4 border-gray-200 focus:border-gray-300 focus:ring-transparent"
-                                        id="formEmail" placeholder="Your email..." required="">
+                                        id="formEmail" placeholder="Seu email..." required="">
                                 </div>
 
                                 <div>
                                     <label for="formPhone"
-                                        class="block text-sm/normal font-semibold text-black mb-2">Phone Number</label>
+                                        class="block text-sm/normal font-semibold text-black mb-2">Número de telefone</label>
                                     <input type="text"
                                         class="block w-full text-sm rounded-md py-3 px-4 border-gray-200 focus:border-gray-300 focus:ring-transparent"
-                                        id="formPhone" placeholder="Type phone number..." required="">
+                                        id="formPhone" placeholder="(11)91235-5487" required="">
                                 </div>
 
                                 <div class="sm:col-span-2">
                                     <div class="mb-4">
                                         <label for="formMessages"
-                                            class="block text-sm/normal font-semibold text-black mb-2">Messages</label>
+                                            class="block text-sm/normal font-semibold text-black mb-2">Mensagem</label>
                                         <textarea
                                             class="block w-full text-sm rounded-md py-3 px-4 border-gray-200 focus:border-gray-300 focus:ring-transparent"
-                                            id="formMessages" rows="4" placeholder="Type messages..."
+                                            id="formMessages" rows="4" placeholder="Tipo Mensagem..."
                                             required=""></textarea>
                                     </div>
                                 </div>
                             </div>
                             <div class="mt-4">
                                 <button type="submit"
-                                    class="py-2 px-6 rounded-md text-baseitems-center justify-center border border-primary text-white bg-primary hover:bg-primaryDark transition-all duration-500 font-medium">Send
-                                    Messages <i class="mdi mdi-send ms-1"></i></button>
+                                    class="py-2 px-6 rounded-md text-baseitems-center justify-center border border-primary text-white bg-primary hover:bg-primaryDark transition-all duration-500 font-medium">Enviar
+                                    Mensagem <i class="mdi mdi-send ms-1"></i></button>
                             </div>
                         </form>
                     </div>
