@@ -1,13 +1,11 @@
-@extends('layouts.base')
+<?php $__env->startSection('css'); ?>
+    <?php echo app('Illuminate\Foundation\Vite')(['node_modules/swiper/swiper-bundle.min.css']); ?>
+<?php $__env->stopSection(); ?>
 
-@section('css')
-    @vite(['node_modules/swiper/swiper-bundle.min.css'])
-@endsection
-
-@section('content')
+<?php $__env->startSection('content'); ?>
 
     <!-- Navbar Start -->
-    @include('layouts.partials/nav-dark')
+    <?php echo $__env->make('layouts.partials/nav-dark', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
     <!-- Navbar End -->
 
     <!-- Hero Start -->
@@ -970,10 +968,12 @@
     </section>
     <!-- Contact End -->
 
-    @include('layouts.partials/footer')
+    <?php echo $__env->make('layouts.partials/footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
     
-@endsection
+<?php $__env->stopSection(); ?>
 
-@section('script_bottom')
-    @vite(['resources/js/swiper.js'])
-@endsection
+<?php $__env->startSection('script_bottom'); ?>
+    <?php echo app('Illuminate\Foundation\Vite')(['resources/js/swiper.js']); ?>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layouts.base', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\GustavoBueno\Betel-Web\resources\views/pages/index-1.blade.php ENDPATH**/ ?>
