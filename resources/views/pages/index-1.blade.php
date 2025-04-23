@@ -18,11 +18,10 @@
                 <div class="text-sm py-20 px-10">
                     <span
                         class="inline-flex py-2 text-lg text-black font-medium items-center justify-center rounded-full">
-                        <i data-lucide="minus"></i> The Best Online Furniture Store</span>
-                    <h1 class="md:text-6xl/tight text-4xl text-dark tracking-normal leading-normal font-bold mb-4 mt-6">
-                        The Best Selection of <span class="text-primary"> Furniture Online </span></h1>
-                    <p class="text-base font-medium text-muted leading-7 mt-5 capitalize">Online furniture apps simplify
-                        home shopping with convenience, variety, and affordability. Browse easily, compare prices.</p>
+                        <i data-lucide="minus"></i>Novidade para você</span>
+                    <h1 class="md:text-6xl/tight text-4xl text-dark tracking-normal leading-normal font-bold mb-4 mt-6 capitalize">
+                        Seu <span class="text-primary">bem estar</span> em suas mãos</h1>
+                    <p class="text-base font-medium text-muted leading-7 mt-5 capitalize">Acesse seus beneficios de saúde de forma rapida e facil. Consultas, exames, descontos e muito mais em um só lugar.</p>
                     <div class="flex flex-wrap items-center justify-center gap-3 lg:justify-normal mt-9">
                         <img src="/images/store.png" class="h-14" alt="apple image">
                         <img src="/images/google.png" class="h-14" alt="google image">
@@ -38,7 +37,7 @@
                                 <i data-lucide="codesandbox" class="h-6 w-6 text-white"></i>
                             </div>
                             <div class="">
-                                <h6 class="text-base font-medium text-default-900">Express Delivery Service</h6>
+                                <h6 class="text-base font-medium text-default-900">Sem Carencia ou Burocracia</h6>
                             </div>
                         </div>
                     </div>
@@ -50,7 +49,7 @@
                                 <i data-lucide="headset" class="h-6 w-6 text-white"></i>
                             </div>
                             <div class="">
-                                <h6 class="text-base font-medium text-default-900">24x7 Customer Support</h6>
+                                <h6 class="text-base font-medium text-default-900">Descontos em Consultas e Exames</h6>
                             </div>
                         </div>
                     </div>
@@ -65,7 +64,7 @@
     <section id="services" class="py-20">
         <div class="container">
             <div class="max-w-2xl mx-auto text-center">
-                <span class="text-sm text-primary uppercase font-semibold tracking-wider text-default-950">Services</span>
+                <span class="text-sm text-primary uppercase font-semibold tracking-wider text-default-950">Serviços</span>
                 <h2 class="text-3xl md:text-4xl/tight font-semibold text-black mt-4">Build a customer - centric marketing strategy</h2>
                 <p class="text-base font-medium mt-4 text-muted">Ligula risus auctor tempus magna feugit lacinia.</p>
             </div>
@@ -513,7 +512,7 @@
                         <span
                             class="text-sm text-primary uppercase font-medium tracking-wider text-default-950 mb-6">FAQs</span>
                     </div>
-                    <h2 class="text-3xl md:text-4xl/tight font-semibold mt-4">Frequently Asked Questions</h2>
+                    <h2 class="text-3xl md:text-4xl/tight font-semibold mt-4">salve</h2>
                 </div>
 
                 <div id="accordion-collapse" data-accordion="collapse" class="md:gap-[30px] mt-14 bg-white rounded-xl">
