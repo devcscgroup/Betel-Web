@@ -21,17 +21,17 @@
                     </li>
 
                     <li class="nav-item mx-1.5 transition-all text-dark lg:text-black group-[&.is-sticky]:text-dark duration-300 hover:text-primary [&.active]:!text-primary group-[&.is-sticky]:[&.active]:text-primary">
-                        <a class="nav-link inline-flex items-center text-sm lg:text-base font-medium py-0.5 px-2 capitalize" href="#services">Sobre nós</a>
+                        <a class="nav-link inline-flex items-center text-sm lg:text-base font-medium py-0.5 px-2 capitalize" href="#services">Serviços</a>
                     </li>
     
                     <li class="nav-item mx-1.5 transition-all text-dark lg:text-black group-[&.is-sticky]:text-dark duration-300 hover:text-primary [&.active]:!text-primary group-[&.is-sticky]:[&.active]:text-primary">
-                        <a class="nav-link inline-flex items-center text-sm lg:text-base font-medium py-0.5 px-2 capitalize" href="#features">Serviços</a>
+                        <a class="nav-link inline-flex items-center text-sm lg:text-base font-medium py-0.5 px-2 capitalize" href="#about">Como acessar</a>
                     </li>
                 </ul>
             </div>
 
             <div class="ms-auto shrink hidden lg:inline-flex gap-2">
-                <a href="#" class="py-2 px-6 inline-flex items-center gap-2 rounded-md text-base text-white bg-primary hover:bg-primaryDark transition-all duration-500 font-medium">
+                <a href="#" class="py-2 px-8 inline-flex items-center gap-2 rounded-full text-base text-white bg-primary hover:bg-primaryDark transition-all duration-500 font-medium">
                     <i data-lucide="download-cloud" class="h-4 w-4 fill-white/40"></i>
                     <span class="hidden sm:block">Baixar App</span>
                 </a>

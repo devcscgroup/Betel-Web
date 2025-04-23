@@ -23,8 +23,8 @@
                         Seu <span class="text-primary">bem estar</span> em suas mãos</h1>
                     <p class="text-base font-medium text-muted leading-7 mt-5 capitalize">Acesse seus beneficios de saúde de forma rapida e facil. Consultas, exames, descontos e muito mais em um só lugar.</p>
                     <div class="flex flex-wrap items-center justify-center gap-3 lg:justify-normal mt-9">
-                        <img src="/images/store.png" class="h-14" alt="apple image">
-                        <img src="/images/google.png" class="h-14" alt="google image">
+                        <a href="https://apps.apple.com/br/app/betel-sa%C3%BAde/id6742192639"><img src="/images/store.png" class="h-14" alt="apple image"></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.betelsaude.appsaude&pcampaignid=web_share"></a><img src="/images/google.png" class="h-14" alt="google image">
                     </div>
                 </div>
 
@@ -34,7 +34,7 @@
                     <div class="absolute bottom-3/4 -end-14 2xl:end-8 hidden xl:block">
                         <div class="flex items-center gap-2 p-2 pe-6 rounded-full bg-white shadow-2xl">
                             <div class="rounded-full bg-primary h-9 w-9 items-center justify-center flex">
-                                <i data-lucide="codesandbox" class="h-6 w-6 text-white"></i>
+                                <i data-lucide="alarm-clock-off" class="h-6 w-6 text-white"></i>
                             </div>
                             <div class="">
                                 <h6 class="text-base font-medium text-default-900">Sem Carencia ou Burocracia</h6>
@@ -46,7 +46,7 @@
                     <div class="absolute bottom-28 start-6 hidden xl:block">
                         <div class="flex items-center gap-2 p-2 pe-6 rounded-full bg-white shadow-2xl">
                             <div class="rounded-full bg-primary h-9 w-9 items-center justify-center flex">
-                                <i data-lucide="headset" class="h-6 w-6 text-white"></i>
+                                <i data-lucide="hand-coins" class="h-6 w-6 text-white"></i>
                             </div>
                             <div class="">
                                 <h6 class="text-base font-medium text-default-900">Descontos em Consultas e Exames</h6>
@@ -148,13 +148,10 @@
                 <div class="lg:ms-5 ms-8">
                     <div>
                         <span
-                            class="text-sm text-primary uppercase font-semibold tracking-wider text-default-950">Services</span>
+                            class="text-sm text-primary uppercase font-semibold tracking-wider text-default-950">Como acessar</span>
                     </div>
-                    <h2 class="text-3xl md:text-4xl/tight font-semibold text-black mt-4">Get Started In Minutes:
-                        Download The App, Create Your Profile</h2>
-                    <p class="text-base font-normal text-muted mt-6">Digital payment has revolutionized the way we make
-                        financial transactions today With Rible you can enjoy the convenience of making secure &
-                        hassle-free payments online. Our platform provides you with a quick and eary.</p>
+                    <h2 class="text-3xl md:text-4xl/tight font-semibold text-black mt-4">Acesse em Instantes: Simples, Rápido e Eficiente</h2>
+                    <p class="text-base font-normal text-muted mt-6">Informe seu CPF e em instantes você estará pronto para digitar sua senha e aproveitar o app.</p>
 
                     <div class="grid lg:grid-cols-3 grid-cols-1 gap-8 mt-9">
 
@@ -165,9 +162,8 @@
                                     <i data-lucide="smartphone" class="h-8 w-8 text-black"></i>
                                 </div>
                             </div>
-                            <h1 class="text-xl font-semibold pt-6">1. Download</h1>
-                            <p class="text-base text-gray-600 font-normal mt-2">Join the millions already benefitting
-                                from.</p>
+                            <h1 class="text-xl font-semibold pt-6">1. Baixar o App</h1>
+                            <p class="text-base text-gray-600 font-normal mt-2">Entre na loja de aplicativos do seu celular e baixe o app.</p>
                         </div>
 
                         <div class="">
@@ -177,8 +173,8 @@
                                     <i data-lucide="file-text" class="h-8 w-8 text-black"></i>
                                 </div>
                             </div>
-                            <h1 class="text-xl font-semibold  pt-6">2. Set Profile</h1>
-                            <p class="text-base text-gray-600 font-normal mt-2">Join the millions already benefitting from.</p>
+                            <h1 class="text-xl font-semibold  pt-6">2. Informe seus dados</h1>
+                            <p class="text-base text-gray-600 font-normal mt-2">Coloque seu CPF para iniciar.</p>
                         </div>
 
                         <div class="">
@@ -188,8 +184,8 @@
                                     <i data-lucide="rocket" class="h-8 w-8 text-black"></i>
                                 </div>
                             </div>
-                            <h1 class="text-xl font-semibold pt-6">3. Start</h1>
-                            <p class="text-base text-gray-600 font-normal mt-2">Join the millions already benefitting
+                            <h1 class="text-xl font-semibold pt-6">3. Começar</h1>
+                            <p class="text-base text-gray-600 font-normal mt-2">Aproveite seus benefícios.
                                 from.</p>
                         </div>
                     </div>
@@ -205,8 +201,7 @@
     </section>
     <!-- About End -->
 
-
-    <!-- Pricing Start -->
+    <!-- 
     <section id="pricing" class="py-20">
         <div class="container">
             <div class="max-w-2xl mx-auto text-center">
@@ -382,9 +377,10 @@
             </div>
         </div>
     </section>
-    <!-- Pricing End-->
+     -->
+                    
 
-    <!-- Faqs Start -->
+    <!-- 
     <section id="FAQs" class="py-20 bg-gray-50">
         <div class="container">
             <div class="">
@@ -535,10 +531,10 @@
             </div>
         </div>
     </section>
-    <!-- Faqs End -->
+            -->
 
 
-    <!-- Testimonial Start -->
+    <!--  
     <section id="testimonial" class="py-20">
         <div class="container">
             <div class="">
@@ -656,10 +652,10 @@
             </div>
         </div>
     </section>
-    <!-- Testimonial End -->
+   -->
 
 
-    <!-- Client Start -->
+    <!--
     <section class="py-20 bg-gray-50">
         <div class="container relative">
             <div class="">
@@ -695,9 +691,9 @@
             </div>
         </div>
     </section>
-    <!-- Client Start -->
+    -->
 
-    <!-- Blog Start -->
+    <!-- 
     <section id="blog" class="py-20">
         <div class="container">
             <div class="">
@@ -790,7 +786,7 @@
             </div>
         </div>
     </section>
-    <!-- Blog End -->
+  -->
 
     <!-- Contact Start -->
     <section id="contact" class="py-20 bg-gray-50">
